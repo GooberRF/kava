@@ -1,0 +1,160 @@
+// movemodes.tbl
+//
+// this table defines all of the movement modes for entities.  movement modes 
+//  describe which axes are free to move in each mode and how they move relative 
+//  to the various frames of reference of an object.
+//
+
+// ----------------------------------------------------------------------------------
+
+#movement modes
+
+// ----------------------------------------------------------------------------------
+
+$name:           "none"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "none"
+$rot x ref:      "none"
+$rot y ref:      "none"
+$rot z ref:      "none"
+
+$name:           "run"
+$move x ref:     "body"
+$move y ref:     "none"
+$move z ref:     "body"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "climb"
+$move x ref:     "eye"
+$move y ref:     "parent"
+$move z ref:     "eye"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "fall"
+$move x ref:     "body"
+$move y ref:     "none"
+$move z ref:     "body"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "swim"
+$move x ref:     "eye"
+$move y ref:     "eye"
+$move z ref:     "eye"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "apc"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "body"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-obj"
+$rot z ref:      "none"
+
+/*$name:           "apc"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "body"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"*/
+
+$name:           "jeep"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "body"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-obj"
+$rot z ref:      "none"
+
+$name:           "apc fall"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "none"
+$rot x ref:      "eye-obj"
+$rot y ref:      "none"
+$rot z ref:      "none"
+
+$name:           "sub"
+$move x ref:     "eye"
+$move y ref:     "parent"
+$move z ref:     "eye"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "sub fall"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "none"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "fighter"
+$move x ref:     "eye"
+$move y ref:     "eye"
+$move z ref:     "eye"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "turret"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "none"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "robot fly"
+$move x ref:     "eye"
+$move y ref:     "parent"
+$move z ref:     "eye"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "hover"
+$move x ref:     "eye"
+$move y ref:     "parent"
+$move z ref:     "eye"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "freelookcam"
+$move x ref:     "eye"
+$move y ref:     "eye"
+$move z ref:     "eye"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "deadcam"
+$move x ref:     "none"
+$move y ref:     "none"
+$move z ref:     "none"
+$rot x ref:      "eye-obj"
+$rot y ref:      "body-world"
+$rot z ref:      "none"
+
+$name:           "john's descent flying mode"
+$move x ref:     "eye"
+$move y ref:     "eye"
+$move z ref:     "eye"
+$rot x ref:      "body-obj"
+$rot y ref:      "body-obj"
+$rot z ref:      "body-obj"
+
+// ----------------------------------------------------------------------------------
+
+#end

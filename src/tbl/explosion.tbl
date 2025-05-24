@@ -1,0 +1,216 @@
+//
+// explosions.tbl - file to specify explosion properties
+//
+//	$Flags:			"no_trails": don't create the little trails that arc out from the main explosion
+
+
+
+#explosion types
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "generic"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
++Central_Emitter:		"explosion boom"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"explosion flare"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
+$Sparks_Emitter:		"explosion random bits"
+	+number:				50
+$Trail_Head_Emitter:	"explosion fire leg"
+	+time_to_emit_head_parts:	0.1
+	+rand_pos_factor:				0.25
+$Trail_Tail_Emitter:	"explosion smoke leg"
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "generic_kva"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
++Central_Emitter:		"explosion boom"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"explosion flare"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
+$Sparks_Emitter:		"explosion random bits"
+	+number:				50
+$Trail_Head_Emitter:	"explosion fire leg_kva"
+	+time_to_emit_head_parts:	0.1
+	+rand_pos_factor:				0.25
+$Trail_Tail_Emitter:	"explosion smoke leg"
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "space"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
++Central_Emitter:		"explosion boom"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"explosion flare"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "geomod"
+$Flags:					("no_trails")
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.166667
++Central_Emitter:		"explosion boom"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"explosion flare"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
+$Sparks_Emitter:		"explosion random bits"
+	+number:				20
+$Trail_Head_Emitter:	"explosion fire leg"
+	+time_to_emit_head_parts:	0.1
+	+rand_pos_factor:				0.25
+$Trail_Tail_Emitter:	"explosion smoke leg"
+
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "shoulder mounted geomod"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part 2"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
++Central_Emitter:		"explosion boom 2"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"explosion flare 2"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
+$Sparks_Emitter:		"explosion random bits"
+	+number:				50
+$Trail_Head_Emitter:	"explosion fire leg_kva"
+	+time_to_emit_head_parts:	0.1
+	+rand_pos_factor:				0.25
+$Trail_Tail_Emitter:	"explosion smoke leg"
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "rocket hit"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"explosion main part 3"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
++Central_Emitter:		"explosion boom"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
++Central_Emitter:		"flamethrower fire_large"
+	+process_per_frame:		yes
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.26
++Central_Emitter:		"explosion flare"
+	+process_per_frame:		no
+	+min_size_before_use:	1.0
++Central_Emitter:		"explosion main_smoke center"
+	+process_per_frame:		yes
+	+min_size_before_use:	1.0
+	+play_time_factor:		0.05
++Central_Emitter:		"flamethrower_explode_large"
+	+process_per_frame:	no
+	+min_size_before_use:0.0
+	+rand_pos_factor:		0.0
+$Sparks_Emitter:		"explosion random bits 2"
+	+number:				20
+
+
+// ----------------------------------------------------------------------------------
+
+$Name:					"flamethrower-alt"
+$Flags:					()
+$Explosion_Play_Time:2.0
++Central_Emitter:		"flamethrower fire"
+	+process_per_frame:	yes
+	+min_size_before_use:0.0
+	+play_time_factor:	0.25
+	+rand_pos_factor:		0.25
++Central_Emitter:		"flamethrower fire"
+	+process_per_frame:	yes
+	+min_size_before_use:0.0
+	+play_time_factor:	0.25
+	+rand_pos_factor:		0.25
++Central_Emitter:		"flamethrower fire"
+	+process_per_frame:	yes
+	+min_size_before_use:0.0
+	+play_time_factor:	0.25
+	+rand_pos_factor:		0.25
++Central_Emitter:		"flamethrower_explode"
+	+process_per_frame:	no
+	+min_size_before_use:0.0
+	+rand_pos_factor:		0.0
++Central_Emitter:		"flamethrower smoke"
+	+process_per_frame:	yes
+	+min_size_before_use:0.25
+	+rand_pos_factor:		0.0
+$Trail_Head_Emitter:	"flamethrower head"
+	+time_to_emit_head_parts:	0.1
+	+rand_pos_factor:				0.0
+$Trail_Tail_Emitter:	"flamethrower tail"
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "FGatE"
+$Flags:					()
+$Explosion_Play_Time:0.2
++Central_Emitter:		"gun hit center"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
+$Sparks_Emitter:		"gun hit sparks"
+	+number:				10
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "FGatE_lilspark"
+$Flags:					()
+$Explosion_Play_Time:0.2
++Central_Emitter:		"gun hit center_small"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
+$Sparks_Emitter:		"gun hit sparks_small"
+	+number:				5
+
+// ----------------------------------------------------------------------------------
+
+$Name:               "FGatE_bigspark"
+$Flags:					()
+$Explosion_Play_Time:0.2
++Central_Emitter:		"gun hit center_big"
+	+process_per_frame:		no
+	+min_size_before_use:	0.0
+	+play_time_factor:		0.05
+$Sparks_Emitter:		"gun hit sparks_big"
+	+number:				15
+
+
+#End

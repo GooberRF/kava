@@ -1,0 +1,52 @@
+0  "GRDC_BATT2_05.wav"
+En: "Heads up!"
+Gr: "Heads up!"
+Fr: "Heads up!"
+
+//kava
+1  "RFRevKava02_01.wav"
+En: "Sekt! Where do I go?"
+Gr: "Sekt! Where do I go?"
+Fr: "Sekt! Where do I go?"
+
+2  "RFRevKava02_02.wav"
+En: "Kava! You need to get out of here. There's an entrance to the sewer system not far from here that should bring you to the treatment plant. I'll meet you there."
+Gr: "Kava! You need to get out of here. There's an entrance to the sewer system not far from here that should bring you to the treatment plant. I'll meet you there."
+Fr: "Kava! You need to get out of here. There's an entrance to the sewer system not far from here that should bring you to the treatment plant. I'll meet you there."
+//1, 3, 4, 5
+//7, 8, 9
+3  "RFRevKava02_03.wav"
+En: "Kava, you need to get out of here. There's an entrance to the sewer system not far from here, you should be able to follow it straight to sector 8."
+Gr: "Kava, you need to get out of here. There's an entrance to the sewer system not far from here, you should be able to follow it straight to sector 8."
+Fr: "Kava, you need to get out of here. There's an entrance to the sewer system not far from here, you should be able to follow it straight to sector 8."
+
+4  "RFRevKava02_04.wav"
+En: "Here's a radio, I'll try to keep you updated. I'll meet you in sector 8."
+Gr: "Here's a radio, I'll try to keep you updated. I'll meet you in sector 8."
+Fr: "Here's a radio, I'll try to keep you updated. I'll meet you in sector 8."
+
+5  "RFRevKava02_05.wav"
+En: "You'll need a keycard to get through the airlock. Find Cremant - he's around here somewhere. He'll get you through."
+Gr: "You'll need a keycard to get through the airlock. Find Cremant - he's around here somewhere. He'll get you through."
+Fr: "You'll need a keycard to get through the airlock. Find Cremant - he's around here somewhere. He'll get you through."
+
+6  "RFRevKava02_06.wav"
+En: "Good luck Kava, you're going to need it."
+Gr: "Good luck Kava, you're going to need it."
+Fr: "Good luck Kava, you're going to need it."
+
+7  "RFRevKava02_07.wav"
+En: "Hey, are you Cremant? Sekt said you can help me."
+Gr: "Hey, are you Cremant? Sekt said you can help me."
+Fr: "Hey, are you Cremant? Sekt said you can help me."
+
+8  "RFRevKava02_08.wav"
+En: "Here Kava, take this keycard - it'll get you through the airlock. We'll get you off this rock. Take care of yourself and I'll see you at central command."
+Gr: "Here Kava, take this keycard - it'll get you through the airlock. We'll get you off this rock. Take care of yourself and I'll see you at central command."
+Fr: "Here Kava, take this keycard - it'll get you through the airlock. We'll get you off this rock. Take care of yourself and I'll see you at central command."
+
+//kava
+9  "RFRevKava02_09.wav"
+En: "Thanks!"
+Gr: "Thanks!"
+Fr: "Thanks!"

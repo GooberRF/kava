@@ -1,0 +1,127 @@
+// PONR.tbl
+//
+// Point of No Return information for savegame system. 
+//
+// Here is a list of all the levels in Kava:
+// ==================================
+// glass_house.rfl
+
+// L1S1.rfl
+// train01.rfl
+
+// rfrev_kvaSTART.rfl
+// rfrev_kva00a.rfl
+// rfrev_kva00b.rfl
+// rfrev_kva00c.rfl
+// rfrev_kva00d.rfl
+// rfrev_kva00e.rfl
+// rfrev_kva00f.rfl
+
+// rfrev_kva01.rfl
+// rfrev_kva02.rfl
+// rfrev_kva03.rfl
+// rfrev_kva04.rfl
+// rfrev_kva05.rfl
+// rfrev_kva06.rfl
+// rfrev_kva07.rfl
+// rfrev_kva08.rfl
+// rfrev_kva09.rfl
+// rfrev_kva10.rfl
+
+// rfrev_kvaEND.rfl
+
+//
+
+#Red Faction PONR
+
+$Level:				"L1S1.rfl"
+$Levels to save:	1
+	+Save:			"L1S1.rfl"
+	
+$Level:				"rfrev_kvaSTART.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kvaSTART.rfl"
+
+$Level:				"rfrev_kva00a.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva00a.rfl"
+	
+$Level:				"rfrev_kva00b.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva00b.rfl"
+	
+$Level:				"rfrev_kva00c.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva00c.rfl"
+	
+$Level:				"rfrev_kva00d.rfl"
+$Levels to save:	2
+	+Save:			"rfrev_kva00c.rfl"
+	+Save:			"rfrev_kva00d.rfl"
+	
+$Level:				"rfrev_kva00e.rfl"
+$Levels to save:	2
+	+Save:			"rfrev_kva00d.rfl"
+	+Save:			"rfrev_kva00e.rfl"
+	
+$Level:				"rfrev_kva00f.rfl"
+$Levels to save:	3
+	+Save:			"rfrev_kva00d.rfl"
+	+Save:			"rfrev_kva00e.rfl"
+	+Save:			"rfrev_kva00f.rfl"
+	
+//currently TBD on ponr between 01/00d or 01/00e
+
+$Level:				"rfrev_kva01.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva01.rfl"
+	
+$Level:				"rfrev_kva02.rfl"
+$Levels to save:	2
+	+Save:			"rfrev_kva01.rfl"
+	+Save:			"rfrev_kva02.rfl"
+	
+$Level:				"rfrev_kva03.rfl"
+$Levels to save:	3
+	+Save:			"rfrev_kva01.rfl"
+	+Save:			"rfrev_kva02.rfl"
+	+Save:			"rfrev_kva03.rfl"
+	
+$Level:				"rfrev_kva04.rfl"
+$Levels to save:	4
+	+Save:			"rfrev_kva01.rfl"
+	+Save:			"rfrev_kva02.rfl"
+	+Save:			"rfrev_kva03.rfl"
+	+Save:			"rfrev_kva04.rfl"
+	
+$Level:				"rfrev_kva05.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva05.rfl"
+	
+$Level:				"rfrev_kva06.rfl"
+$Levels to save:	2
+	+Save:			"rfrev_kva05.rfl"
+	+Save:			"rfrev_kva06.rfl"
+	
+$Level:				"rfrev_kva07.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva07.rfl"
+	
+$Level:				"rfrev_kva08.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva08.rfl"
+
+$Level:				"rfrev_kva09.rfl"
+$Levels to save:	2
+	+Save:			"rfrev_kva08.rfl"
+	+Save:			"rfrev_kva09.rfl"
+	
+$Level:				"rfrev_kva10.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kva10.rfl"
+	
+$Level:				"rfrev_kvaEND.rfl"
+$Levels to save:	1
+	+Save:			"rfrev_kvaEND.rfl"
+
+#End

@@ -1,0 +1,65 @@
+//
+// hud_personas.tbl
+//
+// file to specify persona characteristics
+//
+// Name                 - Persona name
+// Display Name			- (optional) Name as it appears onscreen.  Can be different if we rename -- avoids breaking editor
+// Image                - Filename of .tga that is displayed for the persona
+// ------------------------------------------------
+
+#Personas
+
+$Name:     "Capek"
+$Image:    "persona_capek.tga"
+
+$Name:     "Eos"
+$Display Name: "Cremant"
+$Image:    "persona_eos.tga"
+
+$Name:     "Gryphon"
+$Image:    "persona_eos.tga"
+
+$Name:     "Hendrix"
+$Display Name: "Beluga"
+$Image:    "persona_hendrix.tga"
+
+$Name:     "Instructor"
+$Display Name: "Angus"
+$Image:    "angus_persona1.tga"
+
+$Name:     "Masako"
+$Display Name: "Kava"
+$Image:    "persona_masako.tga"
+
+$Name:     "Miner"
+$Display Name: "Sekt"
+$Image:    "sekt_persona1.tga"
+
+$Name:     "Ultor"
+$Image:    "ultor_persona.tga"
+
+$Name:     "Unknown"
+$Display Name: "Santa"
+$Image:    "W3-Persona-Santa.tga"
+
+/*
+$Name:     "Angus"
+$Display Name: "Angus Brute"
+$Image:    "persona_angus.tga"
+
+$Name:     "Kava"
+$Display Name: "Kava Xarel"
+$Image:    "persona_kava.tga"
+
+$Name:     "Sekt"
+$Image:    "persona_sekt.tga"
+
+$Name:     "Cremant"
+$Display Name: "Crémant"
+$Image:    "persona_cremant.tga"
+
+$Name:     "Beluga"
+$Image:    "persona_belga.tga"*/
+
+#End

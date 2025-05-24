@@ -1,0 +1,92 @@
+0  "RFRevKava06_00.wav"
+En: "Kava, over here!"
+Gr: "Kava, over here!"
+Fr: "Kava, over here!"
+
+//kava
+1  "RFRevKava06_01.wav"
+En: "Sekt! Man it's good to see you. Where do I go now?"
+Gr: "Sekt! Man it's good to see you. Where do I go now?"
+Fr: "Sekt! Man it's good to see you. Where do I go now?"
+
+2  "RFRevKava06_02.wav"
+En: "We can't keep you safe on Mars now that they know who you are. There's a supply ship leaving from central command in an hour - you need to be on board."
+Gr: "We can't keep you safe on Mars now that they know who you are. There's a supply ship leaving from central command in an hour - you need to be on board."
+Fr: "We can't keep you safe on Mars now that they know who you are. There's a supply ship leaving from central command in an hour - you need to be on board."
+
+//kava
+3  "RFRevKava06_03.wav"
+En: "How do I get to central command?"
+Gr: "How do I get to central command?"
+Fr: "How do I get to central command?"
+
+//4 out
+4  "RFRevKava06_04.wav"
+En: "Yeah - we can't keep you safe here now that they know your identity. We need you to get back to Earth. There's a supply ship leaving from the docking bay at central command an hour from now - we've got to get you on board."
+Gr: "Yeah - we can't keep you safe here now that they know your identity. We need you to get back to Earth. There's a supply ship leaving from the docking bay at central command an hour from now - we've got to get you on board."
+Fr: "Yeah - we can't keep you safe here now that they know your identity. We need you to get back to Earth. There's a supply ship leaving from the docking bay at central command an hour from now - we've got to get you on board."
+
+5  "RFRevKava06_05.wav"
+En: "The road outside should take you there. You'll never survive on foot, but if you can hide in a supply crate, the guards should take you there. You can expect a fight when they open the crate, though."
+Gr: "The road outside should take you there. You'll never survive on foot, but if you can hide in a supply crate, the guards should take you there. You can expect a fight when they open the crate, though."
+Fr: "The road outside should take you there. You'll never survive on foot, but if you can hide in a supply crate, the guards should take you there. You can expect a fight when they open the crate, though."
+
+//9 next
+
+6  "RFRevKava06_06.wav"
+En: "One more thing, I need you do do something for me once you get to central command."
+Gr: "One more thing, I need you do do something for me once you get to central command."
+Fr: "One more thing, I need you do do something for me once you get to central command."
+
+//then 7
+
+7  "RFRevKava06_07.wav"
+En: "I need you to log in to the main control panel with a code I got from an inside source with Ultor. After you do, I can log in remotely without them even knowing. The access code is 18008."
+Gr: "I need you to log in to the main control panel with a code I got from an inside source with Ultor. After you do, I can log in remotely without them even knowing. The access code is 18008."
+Fr: "I need you to log in to the main control panel with a code I got from an inside source with Ultor. After you do, I can log in remotely without them even knowing. The access code is 18008."
+
+8  "RFRevKava06_08.wav"
+En: "Good luck, Kava."
+Gr: "Good luck, Kava."
+Fr: "Good luck, Kava."
+
+//0, 1, 2, 3, 5, 9
+//6, 7, 8
+
+//below this is for compatibility in testing only, unused
+
+//kava
+9  "RFRevKava06_09.wav"
+En: "Well, I guess it's the best plan we've got. Let's do it."
+Gr: "Well, I guess it's the best plan we've got. Let's do it."
+Fr: "Well, I guess it's the best plan we've got. Let's do it."
+
+10  "RFRevKava06_10.wav"
+En: "Kava, I need you do do something for me once you get to central command."
+Gr: "Kava, I need you do do something for me once you get to central command."
+Fr: "Kava, I need you do do something for me once you get to central command."
+
+11  "RFRevKava06_11.wav"
+En: "In the control room on the ground level, I need you to log in to the main panel with a code I got from our inside man with Ultor. After you do, I can log in remotely without them even knowing. With that access, we can stay one step ahead of the guards."
+Gr: "In the control room on the ground level, I need you to log in to the main panel with a code I got from our inside man with Ultor. After you do, I can log in remotely without them even knowing. With that access, we can stay one step ahead of the guards."
+Fr: "In the control room on the ground level, I need you to log in to the main panel with a code I got from our inside man with Ultor. After you do, I can log in remotely without them even knowing. With that access, we can stay one step ahead of the guards."
+
+12  "RFRevKava06_12.wav"
+En: "The access code is 18008 - don't forget it!"
+Gr: "The access code is 18008 - don't forget it!"
+Fr: "The access code is 18008 - don't forget it!"
+
+13  "RFRevKava06_13.wav"
+En: "Kava, you need to clear the area or you'll never make it!"
+Gr: "Kava, you need to clear the area or you'll never make it!"
+Fr: "Kava, you need to clear the area or you'll never make it!"
+
+14  "RFRevKava06_14.wav"
+En: "Nicely done Kava, now find a crate to hide in and the guards should take you to central command."
+Gr: "Nicely done Kava, now find a crate to hide in and the guards should take you to central command."
+Fr: "Nicely done Kava, now find a crate to hide in and the guards should take you to central command."
+
+15  "RFRevKava06_15.wav"
+En: "Kava, you need to clear the area before hiding in the crate!"
+Gr: "Kava, you need to clear the area before hiding in the crate!"
+Fr: "Kava, you need to clear the area before hiding in the crate!"

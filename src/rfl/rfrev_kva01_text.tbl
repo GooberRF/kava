@@ -1,0 +1,130 @@
+0  "RFRevKava01_00.wav"
+En: "Kava, I need you to go in first and open the gate so we can get into the compound. I planted a charge on the gate ahead. Shoot that charge and you'll have a way in."
+Gr: "Kava, I need you to go in first and open the gate so we can get into the compound. I planted a charge on the gate ahead. Shoot that charge and you'll have a way in."
+Fr: "Kava, I need you to go in first and open the gate so we can get into the compound. I planted a charge on the gate ahead. Shoot that charge and you'll have a way in."
+
+//start: 14, 15, 3
+//0, 1, 2
+//4, 5, 6
+//17, 7
+//8, 12, 13
+//10, 18
+//dead: 11
+//Annoying: 9
+
+1  "RFRevKava01_01.wav"
+En: "Hurry Kava, open that gate! After the blast we'll only have a few minutes to get in and back out before the entire batallion is down on us."
+Gr: "Hurry Kava, open that gate! After the blast we'll only have a few minutes to get in and back out before the entire batallion is down on us."
+Fr: "Hurry Kava, open that gate! After the blast we'll only have a few minutes to get in and back out before the entire batallion is down on us."
+
+2  "RFRevKava01_02.wav"
+En: "That did it! Great work Kava, now clear the area so we can get the team in."
+Gr: "That did it! Great work Kava, now clear the area so we can get the team in."
+Fr: "That did it! Great work Kava, now clear the area so we can get the team in."
+
+3  "RFRevKava01_03.wav"
+En: "Be safe Kava. If you get in trouble and you can't get back out, remember what I told you."
+Gr: "Be safe Kava. If you get in trouble and you can't get back out, remember what I told you."
+Fr: "Be safe Kava. If you get in trouble and you can't get back out, remember what I told you."
+
+//kava
+4  "RFRevKava01_04.wav"
+En: "All clear!"
+Gr: "All clear!"
+Fr: "All clear!"
+
+5  "RFRevKava01_05.wav"
+En: "Roger, stand clear of the warehouse!"
+Gr: "Roger, stand clear of the warehouse!"
+Fr: "Roger, stand clear of the warehouse!"
+
+6  "RFRevKava01_06.wav"
+En: "Alright Kava, there should be a switch in the back of the warehouse to open the main door."
+Gr: "Alright Kava, there should be a switch in the back of the warehouse to open the main door."
+Fr: "Alright Kava, there should be a switch in the back of the warehouse to open the main door."
+
+7  "RFRevKava01_07.wav"
+En: "We're coming in!"
+Gr: "We're coming in!"
+Fr: "We're coming in!"
+
+8  "RFRevKava01_08.wav"
+En: "Reinforcements incoming! We're heading out back to gather the supplies. Kava, head up to the roof and keep them off of us!"
+Gr: "Reinforcements incoming! We're heading out back to gather the supplies. Kava, head up to the roof and keep them off of us!"
+Fr: "Reinforcements incoming! We're heading out back to gather the supplies. Kava, head up to the roof and keep them off of us!"
+
+9  "RFRevKava01_09.wav"
+En: "Kava! You need to stand guard up on the roof or we'll never make it out!"
+Gr: "Kava! You need to stand guard up on the roof or we'll never make it out!"
+Fr: "Kava! You need to stand guard up on the roof or we'll never make it out!"
+
+10  "GRDC_ALERT_02.wav"
+En: "Game's over, scum!"
+Gr: "Game's over, scum!"
+Fr: "Game's over, scum!"
+
+//kava
+11  "RFRevKava01_11.wav"
+En: "They're all dead! I gotta get out of here!"
+Gr: "They're all dead! I gotta get out of here!"
+Fr: "They're all dead! I gotta get out of here!"
+
+12  "RFRevKava01_12.wav"
+En: "Just a little longer Kava, keep them off us!"
+Gr: "Just a little longer Kava, keep them off us!"
+Fr: "Just a little longer Kava, keep them off us!"
+
+13  "RFRevKava01_13.wav"
+En: "Great work Kava! We're almost done!"
+Gr: "Great work Kava! We're almost done!"
+Fr: "Great work Kava! We're almost done!"
+
+14  "RFRevKava01_14.wav"
+En: "Kava, Great to see you in person for a change!"
+Gr: "Kava, Great to see you in person for a change!"
+Fr: "Kava, Great to see you in person for a change!"
+
+15  "RFRevKava01_15.wav"
+En: "Anyway, no time to waste. Grab some ammo and let's get going. Go back out the way you came in and take the right tunnel. We'll be right behind you."
+Gr: "Anyway, no time to waste. Grab some ammo and let's get going. Go back out the way you came in and take the right tunnel. We'll be right behind you."
+Fr: "Anyway, no time to waste. Grab some ammo and let's get going. Go back out the way you came in and take the right tunnel. We'll be right behind you."
+
+//jones
+16  "RFRevKava01_19.wav"
+En: "Go speak with Angus!"
+Gr: "Go speak with Angus!"
+Fr: "Go speak with Angus!"
+
+//kava
+17  "RFRevKava01_17.wav"
+En: "Got it!"
+Gr: "Got it!"
+Fr: "Got it!"
+
+18  "RFRevKava01_18.wav"
+En: "Kava! Run!"
+Gr: "Kava! Run!"
+Fr: "Kava! Run!"
+
+//jones
+19  "RFRevKava01_19.wav"
+En: "Let's do this!"
+Gr: "Let's do this!"
+Fr: "Let's do this!"
+
+//kava
+20  "RFRevKava01_20.wav"
+En: "Great to finally meet you Angus. I wish I could say the same for the rest of your team..."
+Gr: "Great to finally meet you Angus. I wish I could say the same for the rest of your team..."
+Fr: "Great to finally meet you Angus. I wish I could say the same for the rest of your team..."
+
+21  "RFRevKava01_21.wav"
+En: "Ah yeah Jones can be a bit of an asshole at times but he's harmless. Don't worry about it."
+Gr: "Ah yeah Jones can be a bit of an asshole at times but he's harmless. Don't worry about it."
+Fr: "Ah yeah Jones can be a bit of an asshole at times but he's harmless. Don't worry about it."
+
+//kava
+22  "RFRevKava01_22.wav"
+En: "Yeah, alright..."
+Gr: "Yeah, alright..."
+Fr: "Yeah, alright..."

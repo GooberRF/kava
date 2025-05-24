@@ -1,0 +1,1711 @@
+
+// ----------------------------
+//  Normal Set
+// ----------------------------
+
+/*$Name:	"remote_charge_normal"
+$Model: "fp_rmt_chrg.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"remote_det_normal"
+$Model: "fp_rmt_det.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"riot_stick_normal"
+$Model: "fp_riot.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"handgun_normal"
+$Model: "fp_glock.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"shotgun_normal"
+$Model: "fp_shotgun.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"sniper_normal"
+$Model: "fp_sniperrifle.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"rocket_launcher_normal"
+$Model: "fp_rocketlauncher.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"assault_rifle_normal"
+$Model: "fp_aslt_rfl.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"machine_pistol_normal"
+$Model: "fp_mp.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"grenade_normal"
+$Model: "fp_gren.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"flamethrower_normal"
+$Model: "fp_flame.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"riotshield_normal"
+$Model: "fp_riotshield.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"railgun_normal"
+$Model: "fp_railgun.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"hmac_normal"
+$Model: "fp_hmac.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"scope_assault_normal"
+$Model: "fp_ass2.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"
+
+$Name:	"shoulder_cannon_normal"
+$Model: "fp_shol.v3c"
+$Hand Texture: "hand1st.tga"
+$Forearm Texture: "envirohand.tga"
+$Bicep Texture: "armnew1.tga"*/
+
+$Name:	"remote_charge_normal"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"remote_det_normal"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"riot_stick_normal"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"handgun_normal"
+$Model: "fp_glock.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"shotgun_normal"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"sniper_normal"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"rocket_launcher_normal"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"assault_rifle_normal"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"machine_pistol_normal"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"grenade_normal"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"flamethrower_normal"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"riotshield_normal"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"railgun_normal"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"hmac_normal"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"scope_assault_normal"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"shoulder_cannon_normal"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+
+// ----------------------------
+//  Scientist Set
+// ----------------------------
+
+$Name:	"remote_charge_scientist"
+$Model: "fp_rmt_chrg_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"remote_det_scientist"
+$Model: "fp_rmt_det_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"riot_stick_scientist"
+$Model: "fp_riot_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"handgun_scientist"
+$Model: "fp_glock.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"shotgun_scientist"
+$Model: "fp_shotgun_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"sniper_scientist"
+$Model: "fp_sniperrifle_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"rocket_launcher_scientist"
+$Model: "fp_rocketlauncher_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"assault_rifle_scientist"
+$Model: "fp_aslt_rfl_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"machine_pistol_scientist"
+$Model: "fp_mp_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"grenade_scientist"
+$Model: "fp_gren_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"flamethrower_scientist"
+$Model: "fp_flame_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"riotshield_scientist"
+$Model: "fp_riotshield_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"railgun_scientist"
+$Model: "fp_railgun_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"hmac_scientist"
+$Model: "fp_hmac_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"scope_assault_scientist"
+$Model: "fp_ass2_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+$Name:	"shoulder_cannon_scientist"
+$Model: "fp_shol_armB.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "scientistarm2.tga"
+$Bicep Texture: "scientistarm3.tga"
+
+
+// ----------------------------
+//  Elite Set
+// ----------------------------
+
+$Name:	"remote_charge_elite"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"remote_det_elite"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"riot_stick_elite"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"handgun_elite"
+$Model: "fp_glock.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"shotgun_elite"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"sniper_elite"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"rocket_launcher_elite"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"assault_rifle_elite"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"machine_pistol_elite"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"grenade_elite"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"flamethrower_elite"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"riotshield_elite"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"railgun_elite"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"hmac_elite"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"scope_assault_elite"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+$Name:	"shoulder_cannon_elite"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "elitearm1.tga"
+$Forearm Texture: "elitearm2.tga"
+$Bicep Texture: "elitearm3.tga"
+
+// ----------------------------
+//  Envirosuit Guard Set
+// ----------------------------
+
+$Name:	"remote_charge_env_guard"
+$Model: "fp_rmt_chrg.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"remote_det_env_guard"
+$Model: "fp_rmt_det.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"riot_stick_env_guard"
+$Model: "fp_riot.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"handgun_env_guard"
+$Model: "fp_glock.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"shotgun_env_guard"
+$Model: "fp_shotgun.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"sniper_env_guard"
+$Model: "fp_sniperrifle.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"rocket_launcher_env_guard"
+$Model: "fp_rocketlauncher.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"assault_rifle_env_guard"
+$Model: "fp_aslt_rfl.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"machine_pistol_env_guard"
+$Model: "fp_mp.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"grenade_env_guard"
+$Model: "fp_gren.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"flamethrower_env_guard"
+$Model: "fp_flame.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"riotshield_env_guard"
+$Model: "fp_riotshield.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"railgun_env_guard"
+$Model: "fp_railgun.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"hmac_env_guard"
+$Model: "fp_hmac.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"scope_assault_env_guard"
+$Model: "fp_ass2.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+$Name:	"shoulder_cannon_env_guard"
+$Model: "fp_shol.v3c"
+$Hand Texture: "enviroguardarm1.tga"
+$Forearm Texture: "enviroguardarm2.tga"
+$Bicep Texture: "enviroguardarm3.tga"
+
+
+// ----------------------------
+//  Envirosuit Scientist Set
+// ----------------------------
+
+$Name:	"remote_charge_env_sci"
+$Model: "fp_rmt_chrg.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"remote_det_env_sci"
+$Model: "fp_rmt_det.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"riot_stick_env_sci"
+$Model: "fp_riot.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"handgun_env_sci"
+$Model: "fp_glock.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"shotgun_env_sci"
+$Model: "fp_shotgun.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"sniper_env_sci"
+$Model: "fp_sniperrifle.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"rocket_launcher_env_sci"
+$Model: "fp_rocketlauncher.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"assault_rifle_env_sci"
+$Model: "fp_aslt_rfl.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"machine_pistol_env_sci"
+$Model: "fp_mp.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"grenade_env_sci"
+$Model: "fp_gren.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"flamethrower_env_sci"
+$Model: "fp_flame.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"riotshield_env_sci"
+$Model: "fp_riotshield.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"railgun_env_sci"
+$Model: "fp_railgun.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"hmac_env_sci"
+$Model: "fp_hmac.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"scope_assault_env_sci"
+$Model: "fp_ass2.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+$Name:	"shoulder_cannon_env_sci"
+$Model: "fp_shol.v3c"
+$Hand Texture: "envirosciarm1.tga"
+$Forearm Texture: "envirosciarm2.tga"
+$Bicep Texture: "envirosciarm3.tga"
+
+// ----------------------------
+//  Eos Set
+// ----------------------------
+
+$Name:	"remote_charge_eos"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"remote_det_eos"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"riot_stick_eos"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"handgun_eos"
+$Model: "fp_glock.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"shotgun_eos"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"sniper_eos"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"rocket_launcher_eos"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"assault_rifle_eos"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"machine_pistol_eos"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"grenade_eos"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"flamethrower_eos"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"riotshield_eos"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"railgun_eos"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"hmac_eos"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"scope_assault_eos"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+$Name:	"shoulder_cannon_eos"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "eos1.tga"
+$Forearm Texture: "eos2.tga"
+$Bicep Texture: "eos3.tga"
+
+
+// ----------------------------
+//  Guard Set
+// ----------------------------
+
+$Name:	"remote_charge_guard"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"remote_det_guard"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"riot_stick_guard"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"handgun_guard"
+$Model: "fp_glock.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"shotgun_guard"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"sniper_guard"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"rocket_launcher_guard"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"assault_rifle_guard"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"machine_pistol_guard"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"grenade_guard"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"flamethrower_guard"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"riotshield_guard"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"railgun_guard"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"hmac_guard"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"scope_assault_guard"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+$Name:	"shoulder_cannon_guard"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "guardarm1.tga"
+$Forearm Texture: "guardarm2.tga"
+$Bicep Texture: "guardarm3.tga"
+
+
+// ----------------------------
+//  Masako Set
+// ----------------------------
+
+$Name:	"remote_charge_masako"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"remote_det_masako"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"riot_stick_masako"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"handgun_masako"
+$Model: "fp_glock.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"shotgun_masako"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"sniper_masako"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"rocket_launcher_masako"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"assault_rifle_masako"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"machine_pistol_masako"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"grenade_masako"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"flamethrower_masako"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"riotshield_masako"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"railgun_masako"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"hmac_masako"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"scope_assault_masako"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+$Name:	"shoulder_cannon_masako"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "masakoarm1.tga"
+$Forearm Texture: "masakoarm2.tga"
+$Bicep Texture: "masakoarm3.tga"
+
+
+// ----------------------------
+//  Merc Set
+// ----------------------------
+
+$Name:	"remote_charge_merc"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"remote_det_merc"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"riot_stick_merc"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"handgun_merc"
+$Model: "fp_glock.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"shotgun_merc"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"sniper_merc"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"rocket_launcher_merc"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"assault_rifle_merc"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"machine_pistol_merc"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"grenade_merc"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"flamethrower_merc"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"riotshield_merc"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"railgun_merc"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"hmac_merc"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"scope_assault_merc"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+$Name:	"shoulder_cannon_merc"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "mercarm1.tga"
+$Forearm Texture: "mercarm2.tga"
+$Bicep Texture: "mercarm3.tga"
+
+// ----------------------------
+//  Miner Set
+// ----------------------------
+
+$Name:	"remote_charge_miner_jumpsuit"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"remote_det_miner_jumpsuit"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"riot_stick_miner_jumpsuit"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"handgun_miner_jumpsuit"
+$Model: "fp_glock.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"shotgun_miner_jumpsuit"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"sniper_miner_jumpsuit"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"rocket_launcher_miner_jumpsuit"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"assault_rifle_miner_jumpsuit"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"machine_pistol_miner_jumpsuit"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"grenade_miner_jumpsuit"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"flamethrower_miner_jumpsuit"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"riotshield_miner_jumpsuit"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"railgun_miner_jumpsuit"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"hmac_miner_jumpsuit"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"scope_assault_miner_jumpsuit"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"shoulder_cannon_miner_jumpsuit"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "minerjumarm1.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+
+
+// ----------------------------
+//  Nurse Set
+// ----------------------------
+
+$Name:	"remote_charge_nurse"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"remote_det_nurse"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"riot_stick_nurse"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"handgun_nurse"
+$Model: "fp_glock.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"shotgun_nurse"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"sniper_nurse"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"rocket_launcher_nurse"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"assault_rifle_nurse"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"machine_pistol_nurse"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"grenade_nurse"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"flamethrower_nurse"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"riotshield_nurse"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"railgun_nurse"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"hmac_nurse"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"scope_assault_nurse"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+$Name:	"shoulder_cannon_nurse"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "nursearm1.tga"
+$Forearm Texture: "nursearm2.tga"
+$Bicep Texture: "nursearm3.tga"
+
+
+// ----------------------------
+//  Riot Set
+// ----------------------------
+
+$Name:	"remote_charge_riot"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"remote_det_riot"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"riot_stick_riot"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"handgun_riot"
+$Model: "fp_glock.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"shotgun_riot"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"sniper_riot"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"rocket_launcher_riot"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"assault_rifle_riot"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"machine_pistol_riot"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"grenade_riot"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"flamethrower_riot"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"riotshield_riot"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"railgun_riot"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"hmac_riot"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"scope_assault_riot"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+$Name:	"shoulder_cannon_riot"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "riotarm1.tga"
+$Forearm Texture: "riotarm2.tga"
+$Bicep Texture: "riotarm3.tga"
+
+
+// ----------------------------
+//  Tech Set
+// ----------------------------
+
+$Name:	"remote_charge_tech"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"remote_det_tech"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"riot_stick_tech"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"handgun_tech"
+$Model: "fp_glock.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"shotgun_tech"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"sniper_tech"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"rocket_launcher_tech"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"assault_rifle_tech"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"machine_pistol_tech"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"grenade_tech"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"flamethrower_tech"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"riotshield_tech"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"railgun_tech"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"hmac_tech"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"scope_assault_tech"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"shoulder_cannon_tech"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "techarm1.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+
+// ----------------------------
+//  Hendrix Set
+// ----------------------------
+
+$Name:	"remote_charge_Hendrix"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"remote_det_Hendrix"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"riot_stick_Hendrix"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"handgun_Hendrix"
+$Model: "fp_glock.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"shotgun_Hendrix"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"sniper_Hendrix"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"rocket_launcher_Hendrix"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"assault_rifle_Hendrix"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"machine_pistol_Hendrix"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"grenade_Hendrix"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"flamethrower_Hendrix"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"riotshield_Hendrix"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"railgun_Hendrix"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"hmac_Hendrix"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"scope_assault_Hendrix"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+$Name:	"shoulder_cannon_Hendrix"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "Hendrixhand01.tga"
+$Forearm Texture: "techarm2.tga"
+$Bicep Texture: "techarm3.tga"
+
+
+// ----------------------------
+//  Suit Set
+// ----------------------------
+
+$Name:	"remote_charge_suit"
+$Model: "fp_rmt_chrg_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"remote_det_suit"
+$Model: "fp_rmt_det_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"riot_stick_suit"
+$Model: "fp_riot_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"handgun_suit"
+$Model: "fp_glock.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"shotgun_suit"
+$Model: "fp_shotgun_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"sniper_suit"
+$Model: "fp_sniperrifle_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"rocket_launcher_suit"
+$Model: "fp_rocketlauncher_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"assault_rifle_suit"
+$Model: "fp_aslt_rfl_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"machine_pistol_suit"
+$Model: "fp_mp_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"grenade_suit"
+$Model: "fp_gren_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"flamethrower_suit"
+$Model: "fp_flame_armb.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"riotshield_suit"
+$Model: "fp_riotshield_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"railgun_suit"
+$Model: "fp_railgun_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"hmac_suit"
+$Model: "fp_hmac_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"scope_assault_suit"
+$Model: "fp_ass2_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+$Name:	"shoulder_cannon_suit"
+$Model: "fp_shol_armB.v3c"
+$Hand Texture: "suithand01.tga"
+$Forearm Texture: "suithand02.tga"
+$Bicep Texture: "suithand02.tga"
+
+
+// ----------------------------
+//  MinerFem Set
+// ----------------------------
+
+$Name:	"remote_charge_minerfem"
+$Model: "fp_rmt_chrg_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"remote_det_minerfem"
+$Model: "fp_rmt_det_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"riot_stick_minerfem"
+$Model: "fp_riot_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"handgun_minerfem"
+$Model: "fp_glock.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"shotgun_minerfem"
+$Model: "fp_shotgun_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"sniper_minerfem"
+$Model: "fp_sniperrifle_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"rocket_launcher_minerfem"
+$Model: "fp_rocketlauncher_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"assault_rifle_minerfem"
+$Model: "fp_aslt_rfl_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"machine_pistol_minerfem"
+$Model: "fp_mp_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"grenade_minerfem"
+$Model: "fp_gren_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"flamethrower_minerfem"
+$Model: "fp_flame_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"riotshield_minerfem"
+$Model: "fp_riotshield_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"railgun_minerfem"
+$Model: "fp_railgun_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"hmac_minerfem"
+$Model: "fp_hmac_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"scope_assault_minerfem"
+$Model: "fp_ass2_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+$Name:	"shoulder_cannon_minerfem"
+$Model: "fp_shol_armA.v3c"
+$Hand Texture: "minerarm1-femB.tga"
+$Forearm Texture: "minerjumarm2.tga"
+$Bicep Texture: "minerjumarm3.tga"
+
+#End
