@@ -11,5 +11,7 @@ call .\build_kava_tex.bat
 echo.
 call .\build_kava_mes.bat
 echo.
+call .\build_kava_snd.bat
+echo.
 
 echo Build complete!
