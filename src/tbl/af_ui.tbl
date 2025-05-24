@@ -1,5 +1,6 @@
 #Start
 
+$Disable Multiplayer Button: true
 $Summoner Trailer Button Action: 1
 +Summoner Trailer Button URL: "https://factionfiles.com"
 
