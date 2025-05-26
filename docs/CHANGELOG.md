@@ -8,6 +8,7 @@ Version 1.1.0: Not yet released
 - Rename `L1S1.rfl` to `rfrev_kva00a.rfl`
 - Remove `train01.rfl` transition level
 - Add additional signposting for main control button to `rfrev_kva00d.rfl`
+- Apply Alpine RED optimizations to all campaign levels, recalculate lighting, update to RFL v301
 
 Version 1.0.0 (Hotfix 1): Released Nov-07-2023
 --------------------------------
