@@ -1,8 +1,7 @@
 #Start
 
-// first level and training level filenames will change
-$First Level Filename: "L1S1.rfl"
-$Training Level Filename: "train01.rfl"
+$First Level Filename: "rfrev_kva00a.rfl"
+$Training Level Filename: "rfrev_kvaSTART.rfl"
 $Use Base Game Players Config: true
 
 #End
